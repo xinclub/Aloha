@@ -91,7 +91,6 @@ speed() {
     speed_test '6106' 'VNPT-NET, VN'
     speed_test '8158' 'VTC DIGICOM, VN'
     speed_test '16749' 'Vietnamobile, VN'
-
 }
 
 io_test() {
