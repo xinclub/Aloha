@@ -77,13 +77,12 @@ speed() {
     speed_test '6527'  'Seoul, KR'
     speed_test '7311'  'Singapore, SG'
     speed_test '21569' 'Tokyo, JP'
+    speed_test '17758' 'VNPT-HCM, VN'
+    speed_test '17757' 'VNPT-HN, VN'
     speed_test '2515' 'FPT-HCM, VN'
-    speed_test '6106' 'VNPT-HCM, VN'
-    speed_test '2427' 'Viettel-HCM, VN'
-    speed_test '27601' 'Viettel-DN, VN'
-    speed_test '3381' 'NetNam-HCM, VN'
-    speed_test '6085' 'VNPT-HN, VN'
-    speed_test '2428' 'Viettel-HN, VN'
+    speed_test '2552' 'FPT-HN, VN'
+    speed_test '26853' 'Viettel-HCM, VN'
+    speed_test '9903' 'Viettel-HN, VN'
     speed_test '27601' 'Viettel-DN, VN'
 }
 
